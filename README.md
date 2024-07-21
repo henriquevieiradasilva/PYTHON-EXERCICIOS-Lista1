@@ -4,6 +4,8 @@ _Este repositório contém __exercícios__ práticos para o aprendizado de __Pyt
 
 🚨 __Dica:__ Tente resolver os exercícios por conta própria antes de consultar as soluções. Isso ajudará a melhorar sua lógica e a explorar diferentes abordagens para os problemas.
 
+<br>
+
 ## Exercícios:
 1) Um funcionário recebe um salário mensal, que deve ter 15% de desconto e um acréscimo de 100 reais. Exibir o salário final após os cálculos.
 
